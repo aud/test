@@ -1,0 +1,9 @@
+dependencies:
+  bundler:
+    without:
+      - development
+      - test
+
+deploy:
+  override:
+    - script/deploy
