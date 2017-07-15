@@ -1,3 +1,6 @@
+dependencies:
+    override: []
+
 deploy:
   #pre:
   #  - script/decrypt
