@@ -2,7 +2,6 @@ dependencies:
   override: []
 
 deploy:
-  # This is a test
   #pre:
   #  - script/decrypt
 
