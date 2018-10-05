@@ -1,5 +1,4 @@
 dependencies:
-  override: []
 
 deploy:
   # This is a test
