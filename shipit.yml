@@ -3,8 +3,6 @@ dependencies:
 
 deploy:
   # This is a test
-  #pre:
-  #  - script/decrypt
 
   override:
     - script/deploy
